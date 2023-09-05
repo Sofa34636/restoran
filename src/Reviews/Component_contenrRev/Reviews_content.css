@@ -1,0 +1,38 @@
+.getintouch__items{
+display: flex;
+align-items: center;
+}
+.getintouch__item{
+flex: 0 1 33.333%;
+}
+.item-getintouch{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: rgb(247, 247, 247);
+padding: 50px 15px;
+margin: 1%;
+}
+.item-getintouch > *:not(:last-child){
+margin: 0px 0px 15px 0px;
+}
+.item-getintouch__icon{
+    width: 150px;
+}
+.item-getintouch__text{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+color: rgb(239, 48, 48);
+font-weight: 0;
+line-height: 250%;
+font-size: 20px;
+}
+.item-getintouch__label{
+    align-items: center;
+    color: rgb(167, 167, 167);
+    font-size: 20px;
+}

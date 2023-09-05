@@ -1,0 +1,59 @@
+footer{}
+.page__advantages {
+    max-width: 1100px;
+    margin: 0px auto;
+    padding: 0px 10px;
+}
+.advantages{
+    padding: 80px 0;
+}
+.advantages__container {}
+._container{}
+.advantages__header {
+    margin: 0 0 50px 0;
+}
+.header-block{
+    text-align: center;
+    letter-spacing: 0.2px;
+}
+.header-block__title{
+    line-height: 142%;
+    font-weight: 700;
+    font-size: 40px;
+}
+.header-block__title:not(:last-child){
+  margin: 0 0 10px 0;
+}
+.header-block__sub-title{
+    line-height: 142%;
+    color: #737373;
+}
+.advantages__body{
+    display: flex;
+    margin: 0 225px;
+    
+}
+.advantages__colum{
+    padding: 0 15px;
+}
+.advantages__iten{
+    padding: 30px 40px;
+    text-align: center;
+}
+.advantages__icon{
+    width: 50px;
+}
+
+.bground{
+    background-color: black;
+}
+.text__footer{
+    color: aliceblue;
+    line-height: 12%;
+    font-weight: 7px;
+    font-size: 20px;
+    margin: 5% auto;
+}
+.text__footer_blok{
+display: flex;
+}

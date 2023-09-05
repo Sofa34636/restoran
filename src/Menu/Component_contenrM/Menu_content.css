@@ -1,0 +1,88 @@
+
+.Bg_menu{
+    background: url('../../../picture/Снимок\ экрана\ 2023-05-28\ 175932.png') round;
+
+}
+
+
+.blok{
+    display: flex;
+}
+.blok1{
+    margin: 0 0 0 200px;
+}
+
+.blok12{
+    margin: 0 0 0 220px;
+}
+.blok123{
+    margin: 0 0 0 245px;
+}
+.blok13{
+    margin: 0 0 0 250px;
+}
+.blok4{
+display: flex;
+flex-direction: column;
+margin: 90px 0 100px 120px;
+}
+.advantages__heade {
+    
+}
+.header-bloc{
+    letter-spacing: 0.2px;
+    margin: 10% 10%;
+}
+.header-block__titl{
+    line-height: 142%;
+    font-weight: 700;
+    font-size: 45px;
+    color: #ffffff;
+}
+.header-block__titl:not(:last-child){
+  margin: 0 0 10px 0;
+}
+.header-block__sub-titl{
+    line-height: 142%;
+    color: #ffffff;
+    margin: 30% 0;
+}
+.header-block__sub-titl2{
+    line-height: 142%;
+    color: #ffffff;
+    margin: 65% 0;
+}
+.header-block__sub-2{
+    line-height: 142%;
+    color: #ffffff;
+    margin: 55% 0;
+}
+.header-block__sub-1{
+    line-height: 142%;
+    color: #ffffff;
+    margin: 55% 0;
+}
+.header-block__sub-3{
+    line-height: 142%;
+    color: #ffffff;
+    margin: 36% 0;
+}
+
+.buttonOn{
+    display: flex;
+    margin: 0px auto;
+}
+.buy-btn1{
+    cursor: pointer;
+    border: none;
+    background: rgb(94, 129, 50);
+    border-radius: 10px;
+    display: flex;
+    margin: 10% auto;
+    padding: 0%;
+    text-transform: uppercase;
+    padding: 1px;
+    }
+
+
+ 

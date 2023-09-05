@@ -1,0 +1,54 @@
+.top{
+    min-height: calc(100vh);
+background-image: url(../../../picture/MAIN_Takeaway-2-scaled.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom center;
+
+filter: saturate(60%);
+}
+.container{
+    
+max-width: 1100px;
+margin: 0px auto;
+padding: 0px 10px;
+}
+
+
+
+.bloc1{ 
+margin: 0% auto;
+}
+.title{
+    text-align: center;
+    letter-spacing: 10px;
+    position: relative;
+   
+    margin: 0% 22%;
+    padding-top: 16%;
+    font-size: 96px;
+    margin-bottom: 30px;
+    color: aliceblue;
+}
+.subtitle{
+    margin: 0% 5%;
+    color: aliceblue;
+    font-size: 26px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.buy-btn{
+cursor: pointer;
+border: none;
+background: red;
+border-radius: 10px;
+display: flex;
+margin: 10% auto;
+padding: 0%;
+text-transform: uppercase;
+padding: 1px;
+}
+.buy-btn__text{
+    color: aliceblue;
+    padding: 20px 60px;
+}
